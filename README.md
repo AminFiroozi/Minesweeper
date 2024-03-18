@@ -13,5 +13,5 @@ Afterward you need to enter the <b>COLUMN</b> and <b>ROW</b> in the [<b>&lt;colu
   A shot of the game:
 </h2>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/Mine-Sweeper/blob/main/pictures/example.png" title="MineSweeper">
+  <img src="https://github.com/AminFiroozi/Mine-Sweeper/blob/main/pictures/example.png" title="MineSweeper">
 </p>
